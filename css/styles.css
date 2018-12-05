@@ -1,0 +1,26 @@
+article{
+	display: inline-block;
+	margin-top: 10px;
+	vertical-align: top;
+	width: 30%;
+	margin: 0px 10px 0px 10px;
+}
+
+header nav{
+	background: #EC3A56;
+	border-radius: 25px;
+}
+
+header nav ul li {
+	color: #3C3C3C;
+	display: inline-block;
+	font-weight: bold;
+	font-size: 16pt;
+	margin: 0pc 15px 0px 0px;
+}
+.banner
+{
+	margin-left: 15%;
+	width: 1000px;
+	height: 120px;
+}

@@ -1,0 +1,21 @@
+body {
+	background: #F5F5F5;
+}
+span{
+	font-size: 50px;
+	font-weight: bold;
+	font-family: castellar;
+	color: #EC3A56;
+}
+.imagenes {
+	height: 200px;
+	width: 200px;
+	float: right;
+	margin-left: 5px;
+}
+p {
+	color: #3C3C3C; 
+	font-family: Cambria; 
+	font-size: large;
+	text-align: justify;
+}
